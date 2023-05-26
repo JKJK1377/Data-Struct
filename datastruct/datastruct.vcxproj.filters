@@ -30,6 +30,9 @@
     <ClCompile Include="queue.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="class_queue.h">
+      <Filter>头文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="define.h">
@@ -45,6 +48,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="queue.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="class_stack.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

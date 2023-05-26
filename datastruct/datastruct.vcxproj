@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="class_queue.h" />
     <ClCompile Include="linklist.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="sequence_list.cpp" />
@@ -146,6 +147,7 @@
     <ClCompile Include="stack.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="class_stack.h" />
     <ClInclude Include="define.h" />
     <ClInclude Include="linklist.h" />
     <ClInclude Include="queue.h" />

@@ -101,6 +101,7 @@ Status Traverse(LinkList L) {
 		printf("%d ", p->data);
 		p = p->next;
 	}
+	return OK;
 }
 
 Status LlDestroy(LinkList& L) {
