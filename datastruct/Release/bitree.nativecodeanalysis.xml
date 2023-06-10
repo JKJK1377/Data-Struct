@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\wfs\Desktop\DataStructure_Algorithm\datastruct\datastruct\</FILEPATH>
+      <FILENAME>bitree.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>Creat_BiTree_Pre</FUNCTION>
+    <DECORATED>?Creat_BiTree_Pre@@YAXAAPAU__BiNode@@@Z</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\wfs\Desktop\DataStructure_Algorithm\datastruct\datastruct\</FILEPATH>
+      <FILENAME>bitree.cpp</FILENAME>
+      <LINE>48</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6271</DEFECTCODE>
+    <DESCRIPTION>向“printf”传递了额外参数: _Param_(2) 未由格式字符串使用。</DESCRIPTION>
+    <FUNCTION>LevelOrer</FUNCTION>
+    <DECORATED>?LevelOrer@@YAXPAU__BiNode@@@Z</DECORATED>
+    <FUNCLINE>40</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

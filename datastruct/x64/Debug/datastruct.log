@@ -1,2 +1,17 @@
-﻿main.obj : error LNK2019: 无法解析的外部符号 "public: __cdecl classstack::LinkStack<int>::~LinkStack<int>(void)" (??1?$LinkStack@H@classstack@@QEAA@XZ)，函数 main 中引用了该符号
-C:\Users\wfs\Desktop\DataStructure_Algorithm\datastruct\x64\Debug\datastruct.exe : fatal error LNK1120: 1 个无法解析的外部命令
+﻿  bitree.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(975,1): warning C4005: “OVERFLOW”: 宏重定义
+C:\Users\wfs\Desktop\DataStructure_Algorithm\datastruct\datastruct\define.h(9): message : 参见“OVERFLOW”的前一个定义
+  class_queue.h
+  graph.cpp
+  linklist.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(975,1): warning C4005: “OVERFLOW”: 宏重定义
+C:\Users\wfs\Desktop\DataStructure_Algorithm\datastruct\datastruct\define.h(9): message : 参见“OVERFLOW”的前一个定义
+  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(975,1): warning C4005: “OVERFLOW”: 宏重定义
+C:\Users\wfs\Desktop\DataStructure_Algorithm\datastruct\datastruct\define.h(9): message : 参见“OVERFLOW”的前一个定义
+  sequence_list.cpp
+  queue.cpp
+  stack.cpp
+  正在生成代码...
+C:\Users\wfs\Desktop\DataStructure_Algorithm\datastruct\datastruct\stack.cpp(70): warning C4715: “structstack::GetTop”: 不是所有的控件路径都返回值
+  datastruct.vcxproj -> C:\Users\wfs\Desktop\DataStructure_Algorithm\datastruct\x64\Debug\datastruct.exe

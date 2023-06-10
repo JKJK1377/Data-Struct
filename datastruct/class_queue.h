@@ -33,12 +33,12 @@ namespace classqueue {
             return true;
         }
 
-        bool OUT(T* e) {
+        T OUT(T* e) {
             if (IsEmpty())
-                return false;
+                return (T)false;
             *e = base[front];
             front = (front + 1) % Qmaxsize;
-            return true;
+            return *e;
         }
 
         T GetFront() const {

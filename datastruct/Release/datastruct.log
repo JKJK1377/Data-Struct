@@ -1,0 +1,9 @@
+﻿  graph.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(975,1): warning C4005: “OVERFLOW”: 宏重定义
+C:\Users\wfs\Desktop\DataStructure_Algorithm\datastruct\datastruct\define.h(9): message : 参见“OVERFLOW”的前一个定义
+  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(975,1): warning C4005: “OVERFLOW”: 宏重定义
+C:\Users\wfs\Desktop\DataStructure_Algorithm\datastruct\datastruct\define.h(9): message : 参见“OVERFLOW”的前一个定义
+main.obj : error LNK2001: 无法解析的外部符号 "public: __thiscall AMGraph<char,int,int>::~AMGraph<char,int,int>(void)" (??1?$AMGraph@DHH@@QAE@XZ)
+main.obj : error LNK2001: 无法解析的外部符号 "public: __thiscall AMGraph<char,int,int>::AMGraph<char,int,int>(void)" (??0?$AMGraph@DHH@@QAE@XZ)
+C:\Users\wfs\Desktop\DataStructure_Algorithm\datastruct\Release\datastruct.exe : fatal error LNK1120: 2 个无法解析的外部命令
